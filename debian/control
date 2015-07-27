@@ -1,0 +1,12 @@
+Source: ros-indigo-agvs-gazebo
+Section: misc
+Priority: extra
+Maintainer: Roberto Guzmán <rguzman@robotnik.es>
+Build-Depends: debhelper (>= 9.0.0), ros-indigo-agvs-description, ros-indigo-catkin, ros-indigo-effort-controllers, ros-indigo-gazebo-ros, ros-indigo-joint-state-controller, ros-indigo-roscpp, ros-indigo-std-msgs, ros-indigo-std-srvs, ros-indigo-tf, ros-indigo-velocity-controllers
+Homepage: http://wiki.ros.org/agvs_gazebo
+Standards-Version: 3.9.2
+
+Package: ros-indigo-agvs-gazebo
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-indigo-agvs-description, ros-indigo-agvs-pad, ros-indigo-agvs-robot-control, ros-indigo-effort-controllers, ros-indigo-gazebo-ros, ros-indigo-joint-state-controller, ros-indigo-roscpp, ros-indigo-std-msgs, ros-indigo-std-srvs, ros-indigo-tf, ros-indigo-velocity-controllers
+Description: The agvs_gazebo package. Launch files and worlds to run Gazebo.

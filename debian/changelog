@@ -1,0 +1,10 @@
+ros-indigo-agvs-gazebo (0.1.0-0trusty) trusty; urgency=high
+
+  * Adding the install macro to the CMakelists
+  * Cleaning CMakelists and more
+  * First indigo version commit
+  * Contributors: Elena Gambaro, RomanRobotnik
+
+ -- Roberto Guzmán <rguzman@robotnik.es>  Thu, 16 Jul 2015 22:00:00 -0000
+
+
