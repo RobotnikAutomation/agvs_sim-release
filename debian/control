@@ -1,0 +1,12 @@
+Source: ros-indigo-agvs-control
+Section: misc
+Priority: extra
+Maintainer: Román Navarro <rnavarro@robotnik.es>
+Build-Depends: debhelper (>= 9.0.0), ros-indigo-catkin
+Homepage: http://wiki.ros.org/agvs_control
+Standards-Version: 3.9.2
+
+Package: ros-indigo-agvs-control
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, 
+Description: The agvs_control package. Config files used for Gazebo motor controllers.

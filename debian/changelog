@@ -1,0 +1,12 @@
+ros-indigo-agvs-control (0.1.1-1saucy) saucy; urgency=high
+
+  * Adding changelogs for the release
+  * Adding the install macro to the CMakelists
+  * Wrong catkin package macro invocation
+  * Cleaning CMakelists and more
+  * First indigo version commit
+  * Contributors: Elena Gambaro, Isaac IY Saito, RomanRobotnik
+
+ -- Román Navarro <rnavarro@robotnik.es>  Tue, 28 Jul 2015 22:00:00 -0000
+
+
