@@ -1,0 +1,12 @@
+Source: ros-indigo-agvs-sim
+Section: misc
+Priority: extra
+Maintainer: Roberto Guzmán <rguzman@robotnik.es>
+Build-Depends: debhelper (>= 9.0.0), ros-indigo-catkin
+Homepage: http://ros.org/wiki/agvs_sim
+Standards-Version: 3.9.2
+
+Package: ros-indigo-agvs-sim
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-indigo-agvs-control, ros-indigo-agvs-gazebo, ros-indigo-agvs-robot-control, ros-indigo-agvs-sim-bringup
+Description: agvs Gazebo simulation packages
