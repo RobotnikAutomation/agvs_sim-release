@@ -1,0 +1,13 @@
+ros-indigo-agvs-sim (0.1.1-1saucy) saucy; urgency=high
+
+  * Fixing error name on dependency
+  * Adding changelogs for the release
+  * Update package.xml
+  * Update package.xml
+  * Update CMakeLists.txt
+  * First indigo version commit
+  * Contributors: Elena Gambaro, ElenaFG, RomanRobotnik
+
+ -- Roberto Guzmán <rguzman@robotnik.es>  Tue, 28 Jul 2015 22:00:00 -0000
+
+
