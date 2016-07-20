@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package>
   <name>agvs_robot_control</name>
-  <version>0.1.1</version>
+  <version>0.1.2</version>
   <description>The agvs_robot_control package. Robot controller that interacts with Gazebo motor controllers.</description>
 
   <maintainer email="rguzman@robotnik.es">Roberto Guzmán</maintainer>
@@ -10,8 +10,8 @@
   <license>BSD</license>
 
   <url type="website">http://wiki.ros.org/agvs_robot_control</url>
-  <url type="repository">https://github.com/RobotnikAutomation/agvs</url>
-  <url type="bugtracker">https://github.com/RobotnikAutomation/agvs/issues</url>
+  <url type="repository">https://github.com/RobotnikAutomation/agvs_sim</url>
+  <url type="bugtracker">https://github.com/RobotnikAutomation/agvs_sim/issues</url>
 
 
   <author email="rguzman@robotnik.es">Roberto Guzmán</author>
