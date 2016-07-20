@@ -1,0 +1,32 @@
+ros-kinetic-agvs-sim (0.1.2-0wily) wily; urgency=high
+
+  * Updating changelogs
+  * agvs_sim: adding metapackage config
+  * indigo-0.1.1
+  * Redoing CHANGELOGS
+  * Fixing error name on dependency
+  * Adding changelogs for the release
+  * Update package.xml
+  * Update package.xml
+  * Update CMakeLists.txt
+  * First indigo version commit
+  * Contributors: Elena Gambaro, ElenaFG, RomanRobotnik
+  * agvs_sim: adding metapackage config
+  * indigo-0.1.1
+  * Redoing CHANGELOGS
+
+ -- Roberto Guzmán <rguzman@robotnik.es>  Tue, 19 Jul 2016 22:00:00 -0000
+
+ros-kinetic-agvs-sim (0.1.1-0wily) wily; urgency=high
+
+  * Fixing error name on dependency
+  * Adding changelogs for the release
+  * Update package.xml
+  * Update package.xml
+  * Update CMakeLists.txt
+  * First indigo version commit
+  * Contributors: Elena Gambaro, ElenaFG, RomanRobotnik
+
+ -- Roberto Guzmán <rguzman@robotnik.es>  Tue, 28 Jul 2015 22:00:00 -0000
+
+
