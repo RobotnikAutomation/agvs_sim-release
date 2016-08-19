@@ -1,0 +1,35 @@
+ros-kinetic-agvs-sim-bringup (0.1.3-0wily) wily; urgency=high
+
+
+
+ -- Roberto Guzmán <rguzman@robotnik.es>  Thu, 18 Aug 2016 22:00:00 -0000
+
+ros-kinetic-agvs-sim-bringup (0.1.2-0wily) wily; urgency=high
+
+  * agvs_gazebo: added world and launch files for agvs_floor_1 model
+  * agvs_gazebo: added world and launch files for agvs_floor_1 model
+  * Correcting repository urls and websites for some packages
+  * Updating changelogs
+  * indigo-0.1.1
+  * Redoing CHANGELOGS
+  * Adding changelogs for the release
+  * Adding the install macro to the CMakelists
+  * Cleaning CMakelists and more
+  * First indigo version commit
+  * Contributors: Elena Gambaro, Marc Bosch-Jorge, RomanRobotnik
+  * indigo-0.1.1
+  * Redoing CHANGELOGS
+
+ -- Roberto Guzmán <rguzman@robotnik.es>  Tue, 19 Jul 2016 22:00:00 -0000
+
+ros-kinetic-agvs-sim-bringup (0.1.1-0wily) wily; urgency=high
+
+  * Adding changelogs for the release
+  * Adding the install macro to the CMakelists
+  * Cleaning CMakelists and more
+  * First indigo version commit
+  * Contributors: Elena Gambaro, RomanRobotnik
+
+ -- Roberto Guzmán <rguzman@robotnik.es>  Tue, 28 Jul 2015 22:00:00 -0000
+
+
