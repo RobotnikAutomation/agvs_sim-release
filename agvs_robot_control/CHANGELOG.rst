@@ -2,6 +2,9 @@
 Changelog for package agvs_robot_control
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.1.3 (2016-08-19)
+------------------
+
 0.1.2 (2016-07-20)
 ------------------
 * Correcting repository urls and websites for some packages
